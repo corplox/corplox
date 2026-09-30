@@ -1,13 +1,14 @@
-# CorpLox Trade Data & Market Intelligence
+# CorpLox
 
-A lightweight public GitHub Pages site for CorpLox trade data and visualizations.
+**Global Trade & Market Intelligence Platform**
 
-Main platform: https://corplox.com/
+CorpLox organizes public international merchandise trade data into country, product and bilateral reports with tables, charts and analytical context.
 
-Trade analytics: https://corplox.com/trade
+### Explore
 
-Methodology: https://corplox.com/methodology
+- [Trade Analytics](https://corplox.com/trade)
+- [U.S. Trade Report — 2025 Data](https://corplox.com/trade/us)
+- [Methodology](https://corplox.com/methodology)
+- [CorpLox](https://corplox.com/)
 
-Featured report: https://corplox.com/trade/us
-
-Trade data source: UN Comtrade.
+Trade statistics are based primarily on UN Comtrade records. CorpLox provides the organization, visualization and analytical context around these public data.
