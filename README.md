@@ -6,9 +6,9 @@ CorpLox organizes public international merchandise trade data into country, prod
 
 ### Explore
 
-- [Trade Analytics](https://corplox.com/trade)
-- [U.S. Trade Report — 2025 Data](https://corplox.com/trade/us)
-- [Methodology](https://corplox.com/methodology)
-- [CorpLox](https://corplox.com/)
+- [Trade Analytics](https://corplox.net/trade)
+- [U.S. Trade Report — 2025 Data](https://corplox.net/trade/us)
+- [Methodology](https://corplox.net/methodology)
+- [CorpLox](https://corplox.net/)
 
 Trade statistics are based primarily on UN Comtrade records. CorpLox provides the organization, visualization and analytical context around these public data.
